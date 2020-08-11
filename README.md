@@ -40,4 +40,4 @@
 
 ---
 
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Proyol&show_icons=true&hide_border=true"># Proyol
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Proyol&show_icons=true&hide_border=true">
