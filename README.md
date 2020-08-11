@@ -2,7 +2,7 @@
 
 ## Algumas informações sobre mim / Some info about me
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB) / I'm a computer engineer student (UTFPR-PB);
-- 🎥 Sou um produtor audiovisual e designer gráfico / I'm a audiovisual producer a grafical designer;
+- 🎥 Sou um produtor audiovisual e designer gráfico / I'm a audiovisual producer and a grafical designer;
 - 🎸 Toco diversos intrumentos como violão, guitarra, cavaquinho e pandeiro / I play some instruments, such as guitar, electric guitar, small guitar and tambourine;
 - 💻 Atualmente estou desenvolvendo um aplicativo de controle de gastos de dinheiro / I'm currently working on a speending control app;
 
