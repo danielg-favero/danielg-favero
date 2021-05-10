@@ -3,13 +3,11 @@
 ## Algumas informações sobre mim / Some info about me
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB) / I'm a computer engineer student (UTFPR-PB);
 - 🎥 Sou um produtor audiovisual e designer gráfico / I'm a audiovisual producer and a grafical designer;
-- 🎸 Toco diversos intrumentos como violão, guitarra, cavaquinho e pandeiro / I play some instruments, such as guitar, electric guitar, small guitar and tambourine;
-- 💻 Atualmente estou desenvolvendo um aplicativo de controle de gastos de dinheiro / I'm currently working on a speending control app;
+- 🎬 Atualmente sou diretor de Marketing na OCCAM Engenharia / I'm the current Marketing Officer at OCCAM Engenharia;
 
 ## Entre em contato comigo / Contact me
 [<img src="https://image.flaticon.com/icons/svg/95/95627.svg" alt="E-mail" width="30px" />](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQQMQvcTNHMRlzMkrZgmJjdtNRFClsJzwgVgcjjbdxTqtMRChhjTkRSrVvMXDJbBTJzql)
-[<img src="https://image.flaticon.com/icons/svg/1384/1384015.svg" alt="Instagram pessoal / Personal instagram" width="30px" />](https://www.instagram.com/danielg.favero/)
-[<img src="https://image.flaticon.com/icons/svg/1384/1384015.svg" alt="Instagram da minha produtora / My producer's instagram" width="30px" />](https://www.instagram.com/7keyframesproducoes/)
+[<img src="https://image.flaticon.com/icons/svg/1384/1384015.svg" alt="Instagram" width="30px" />](https://www.instagram.com/danielg.favero/)
 [<img src="https://image.flaticon.com/icons/svg/1384/1384014.svg" alt="Linkedin" width="30px" />](https://www.linkedin.com/in/daniel-favero-46b43b158/)
 
 ## Linguagens e ferramentas / Languages and tools
@@ -24,19 +22,25 @@
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+<img align="left" alt="Styled-Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="P5JS" width="26px" src="https://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png" />
+<img align="left" alt="Nextjs" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--8sx8IYNE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogreact.com/wp-content/uploads/2020/10/1_htbUdWgFQ3a94PMEvBr_hQ.png%3Fresize%3D750%252C428%26ssl%3D1" />
 
-<img align="left" alt="ProcessingJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+
+<img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
 <br />
 <br />
