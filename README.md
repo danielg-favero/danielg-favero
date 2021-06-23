@@ -2,7 +2,8 @@
 
 ## Algumas informações sobre mim / Some info about me
 - 📖 Sou estudante de Engenharia de Computação (UTFPR-PB) / I'm a computer engineer student (UTFPR-PB);
-- 🎥 Sou um produtor audiovisual e designer gráfico / I'm a audiovisual producer and a grafical designer;
+- 🎥 Sou um UI e UX Designer em desenvolvimento / I'm a UI and UX designer in progress;
+- 👨‍💻 Sou também um desenvolvedor frontend / I'm also a frontend dev
 - 🎬 Atualmente sou diretor de Marketing na OCCAM Engenharia / I'm the current Marketing Officer at OCCAM Engenharia;
 
 ## Entre em contato comigo / Contact me
