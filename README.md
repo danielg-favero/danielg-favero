@@ -1,7 +1,6 @@
 # 💫 Sobre Mim / About Me:
 📚 Atualmente sou estudante de Engenharia de Computação na UTFPR-PB / I'm currently a Computer Engineer student at UTFPR-PB<br>
-🔭 Engenheiro de Software Frontend Pleno no NEES / PL Frontend Software Engineer at NEES<br>
-💼 CEO na empresa júnior OCCAM Engenharia / CEO at the junior company OCCAM Engenharia
+🔭 Desenvolvedor de Software Frontend Pleno no NEES / Frontend Software Developer at NEES<br>
 
 
 ## 🌐 Redes Sociais / Socials:
